@@ -1,2 +1,4 @@
 # GSoC-2026-ML4SCI-HEPSIM
-GSoC 2026 preparation repository for ML4SCI HEPSIM project – dataset exploration, feature engineering, and baseline models.
+
+This repository contains my evaluation test for the ML4SCI HEPSIM project.  
+It includes vectorized jet reconstruction, Lorentz boosts, and invariant mass calculations using NumPy.
